@@ -1,11 +1,10 @@
-#!/bin/bash  
 #include <stdio .h>
 /**
- * * main - main block
+* main - main block
  * return: 0
- * */
-int main(viod)
+ */
+ int main(viod)
 {
-	puts("\"programming is like building a multilingual puzzle");
-	return (0);
-}
+puts("\"programming is like building a multilingual puzzle");
+return (0);	
+}	
