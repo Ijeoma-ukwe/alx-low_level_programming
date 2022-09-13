@@ -3,10 +3,10 @@
 /**
 * print _alphabet-function that prints the alphabet in lowercase
 *
-*Return: Always 0
+* Return: Always 0
 */
 
-void print_alpphabet-x10(void)
+void print_alphabet(void)
 {
 int i;
 
