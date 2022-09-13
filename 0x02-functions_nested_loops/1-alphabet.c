@@ -6,7 +6,7 @@
 *Return: void
 */
 
-void print-alpphabet(void)
+void print_alpphabet(void)
 {
 int i;
 
