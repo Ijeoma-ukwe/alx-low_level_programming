@@ -1,0 +1,184 @@
+[33mcommit 05fdd759e84ed3eacb713dbfc1e2bc9fd0b2fd38[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Wed Oct 12 05:24:34 2022 -0700
+
+    task1
+
+[33mcommit 4557857a542e3f1fd6eace8641a169c4d9283aa0[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Fri Oct 7 10:05:28 2022 -0700
+
+    task1
+
+[33mcommit 85e9964427c3ae2fe1531612f7c145fb0442bdfc[m
+Merge: 7423bda 8f213b4
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Fri Oct 7 09:49:58 2022 -0700
+
+    fix work
+    Merge branch 'master' of https://github.com/Ijeoma-ukwe/alx-low_level_programming
+
+[33mcommit 7423bdae0faa5aa2860c77b5acdcb085a0008c07[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Fri Oct 7 07:00:00 2022 -0700
+
+    task0
+
+[33mcommit 8f213b4181dd147f6b271385c36a33f2b9deb3ba[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Tue Oct 4 21:39:09 2022 +0100
+
+    Delete 1-strdup.c
+
+[33mcommit 0a3b0b19d98573408d23a24547737193d1fd959d[m
+Merge: 364c716 aaefeaf
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Tue Oct 4 13:28:32 2022 -0700
+
+    Merge branch 'master' of https://github.com/Ijeoma-ukwe/alx-low_level_programming
+
+[33mcommit 364c716d33e8f57cb5eac117044355f0eac7a213[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Tue Oct 4 13:23:38 2022 -0700
+
+    task1
+
+[33mcommit aaefeaff99861bd1eb3b302c49e8762a7c25a4f7[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Tue Oct 4 21:02:01 2022 +0100
+
+    Delete .0-create_array.c.swp
+
+[33mcommit 53ca2738ab3a50ec10e8a0f9274f61848e688300[m
+Merge: 3fed67e 88f5df5
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Tue Oct 4 12:59:22 2022 -0700
+
+    task0
+
+[33mcommit 3fed67e762b986f531685b74c70dd9fcf0ba7ead[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Tue Oct 4 04:51:38 2022 -0700
+
+    changes
+
+[33mcommit 88f5df523fded6b2e0041976271429dacc5beefe[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Tue Oct 4 12:42:35 2022 +0100
+
+    Delete 0x0B-malloc_free directory
+
+[33mcommit 2a28c3dd2a534ef61a6019e7c05e5c23727e1ffb[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Mon Oct 3 18:31:45 2022 +0100
+
+    Update 0-create_array.c
+
+[33mcommit bb876c7857a71f6c2acb9c775feb7122cc95fc10[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Mon Oct 3 18:29:13 2022 +0100
+
+    Update main.h
+
+[33mcommit 5228680d1456452d638efe9eb6ff6a343029e77e[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Mon Oct 3 10:02:44 2022 -0700
+
+    task0
+
+[33mcommit 4f60c640a4efbaf50ced71c910901d77b9f2b550[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Mon Oct 3 16:42:20 2022 +0100
+
+    Delete 0x0B-malloc_free directory
+
+[33mcommit 700ae162f15b6253170851faf2aa931463bf9e92[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Mon Oct 3 16:37:57 2022 +0100
+
+    Update 0-create_array.c
+
+[33mcommit 4c216ee46efcfb807eea3b7565b3b8d1427242b6[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Mon Oct 3 16:28:26 2022 +0100
+
+    Update main.h
+
+[33mcommit 017eaff784e46054801d93d35161a06da57aa2b8[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Mon Oct 3 16:20:11 2022 +0100
+
+    Update 0-create_array.c
+
+[33mcommit 9c1d61a67e6b8af348ed3173610aa0ad53e27862[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Mon Oct 3 08:17:37 2022 -0700
+
+    task0
+
+[33mcommit 851625fef3ecf7f8e8a94d398e910ad1e8188794[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 14:27:19 2022 -0700
+
+    task0
+
+[33mcommit e2fa476cd5fa48352629546ca60fca134ce80642[m
+Author: Ijeoma-ukwe <111155128+Ijeoma-ukwe@users.noreply.github.com>
+Date:   Sun Oct 2 20:01:45 2022 +0100
+
+    Delete 0x09-static_libraries directory
+
+[33mcommit 8e51c001c5d05feb2454044637594f2ebd12c080[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 11:59:11 2022 -0700
+
+    advanced+
+
+[33mcommit 4237b075d54b9ccd5253007d944886bc040c31ba[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 08:35:15 2022 -0700
+
+    task4
+
+[33mcommit 19f51f3429cf1710cbcea0841d788a77935337cd[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 07:39:39 2022 -0700
+
+    task3
+
+[33mcommit 088b609e80a0c7183bb3233fe4a0b5de27157090[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 07:11:44 2022 -0700
+
+    task2
+
+[33mcommit 52a304d300faf4eb5b6c51a16b09f32e59f198fd[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 07:04:23 2022 -0700
+
+    task1
+
+[33mcommit 33dcef6dda3bf2f5c3b1071fc5a904c85f3217af[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 06:55:49 2022 -0700
+
+    task0
+
+[33mcommit 59992a8b904f0a74c7ffa4b27e846bd8b4777e61[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sun Oct 2 06:25:47 2022 -0700
+
+    0x0A. C - argc
+
+[33mcommit 43501ca047f51facdb396dd08ff5214a2b983d90[m
+Author: ijeoma-ukwe <ukwejennifer@gmail.com>
+Date:   Sat Oct 1 17:14:09 2022 -0700
+
+    task0
+
+[33mcommit 2d9050f8e36e564eaae1ae29bdf0e703f0bd2c8f[m
+Merge: b07406e 148b7fd
+Author: https://github.com/Ijeoma-ukwe/alx-low_level_programming.git <ukwejennifer@gmail.com>
+Date:   Sat Oct 1 16:56:30 2022 -0700
+
+    Merge branch 'master' of https://github.com/Ijeoma-ukwe/alx-low_level_programming
