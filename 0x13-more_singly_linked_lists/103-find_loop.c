@@ -24,7 +24,7 @@ break;
 }
 if (!tom || !jerry || !jerry->next)
 return (NULL);
-while (jerry != jerry)
+while (tom != jerry)
 {
 tom = tom->next;
 jerry = jerry->next;
