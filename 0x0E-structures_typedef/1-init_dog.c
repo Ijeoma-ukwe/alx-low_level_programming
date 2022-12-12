@@ -15,4 +15,8 @@ d = malloc(sizeof(struct dog));
 d->name = name;
 d->age = age;
 d->owner = owner;
+<<<<<<< HEAD
+} 
+=======
 }
+>>>>>>> 59eb0a58e77453411f0dcfc13598a94706933556
